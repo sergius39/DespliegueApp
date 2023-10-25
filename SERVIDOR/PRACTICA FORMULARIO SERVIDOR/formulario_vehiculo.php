@@ -95,16 +95,11 @@
     <option value="smart">Smart</option>
     <option value="ssangyong">Ssang-Yong</option>
     <option value="subaru">Subaru</option>
-
     <option value="suzuki">Suzuki</option>
     <option value="tata">Tata</option>
     <option value="tesla">Tesla</option>
     <option value="toyota">Toyota</option>
     <option value="volkswagen">Volkswagen</option>
-    <option value="volkswagen">Volkswagen</option>
-
-    <option value="volkswagen">Volkswagen</option>
-
 </select>
 </fieldset>
 <br>
